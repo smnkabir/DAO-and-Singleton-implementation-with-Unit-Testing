@@ -1,0 +1,7 @@
+nk,Jk,lecturer
+nk,78ka,lecturer
+nk,79ka,lecturer
+nk,80ka,lecturer
+nk,81ka,lecturer
+nk,82ka,lecturer
+nk,Jk,lecturer
